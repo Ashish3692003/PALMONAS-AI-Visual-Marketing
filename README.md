@@ -33,7 +33,3 @@ Visual Marketing Strategy | AI Image Generation | Prompt Engineering | Brand Aud
 **Varri Ashish Nadh** | ECE Graduate, AI & ML Specialization | GITAM University
 Linkedin: linkedin.com/in/ashishnadhvarri | GitHub: github.com/Ashish3692003
 
----
-
-**Project Type**: GenAI Marketing | Visual Content Strategy | Brand Storytelling
-**Created**: February 2026
