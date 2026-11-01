@@ -56,6 +56,8 @@ authentic skin micro-texture, sub-surface scattering.
 [NEGATIVE CONSTRAINTS]
 over-saturated gold, cartoon skin, deformed hands, extra fingers, warped necklace clasp, flat commercial flash, blurry metal.
 ```
+<img width="1376" height="768" alt="image" src="https://github.com/user-attachments/assets/e9e911c5-3d0b-4604-985c-9de7df9f3855" />
+
 
 #### 2. Subtle Festive Radiance ("Intimate Festive Evening")
 * **Strategic Intent:** Bridge daily wear into festive occasions without the weight and cost of heavy 22K bridal jewellery.
