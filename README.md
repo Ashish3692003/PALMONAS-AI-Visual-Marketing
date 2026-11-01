@@ -74,6 +74,8 @@ crisp facet refraction, natural organic shadows.
 [NEGATIVE CONSTRAINTS]
 heavy bridal lehenga, cluttered traditional ornaments, plastic skin smoothing, distorted facial features, dull metal finish.
 ```
+<img width="1376" height="768" alt="image" src="https://github.com/user-attachments/assets/9eb0e092-e31a-456e-a672-086aadb9e06d" />
+
 
 ---
 
